@@ -15,14 +15,11 @@ Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/publ
 \# Co-first authors; \* Co-corresponding authors
 
 ## 2024
-
 - Paczkowska J#, Tang M#, Wright KT#, Song L, Luu K, Shanmugam V, Welsh EL, Weirather JL, Besson N, Olszewski H, Porter BA, Pfaff KL, Redd RA, Cader FZ, Mandato E, Ouyang J, Calabretta E, Bai G, Lawton LN, Armand P, Rodig SJ, **Liu XS**, Shipp MA. Cancer-specific innate and adaptive immune rewiring drives resistance to PD-1 blockade in classic Hodgkin lymphoma. Nat Commun. 2024 Dec 30;15(1):10740.\
 [\[Abstract\]](https://pubmed.ncbi.nlm.nih.gov/39737927/)
-
 - Nicol PB, Paulson D, Qian G, **Liu XS**, Irizarry R, Sahu AD. Robust identification of perturbed cell types in single-cell RNA-seq data. Nat Commun. 2024 Sep 1;15(1):7610. doi: 10.1038/s41467-024-51649-3.\
 [\[Abstract\]](https://pubmed.ncbi.nlm.nih.gov/39218971/)
-
-- Deshpande D*#, Chhugani K#, Ramesh T, Pellegrini M, Shiffman S, Abedalthagafi MS, Alqahtani S, Ye J, **Liu XS**, Leek JT, Brazma A, Ophoff RA, Rao G, Butte AJ, Moore JH, Katritch V, Mangul S*. The evolution of computational research in a data-centric world. Cell. 2024 Aug 22;187(17):4449-4457. \
+- Deshpande D#\*, Chhugani K#, Ramesh T, Pellegrini M, Shiffman S, Abedalthagafi MS, Alqahtani S, Ye J, **Liu XS**, Leek JT, Brazma A, Ophoff RA, Rao G, Butte AJ, Moore JH, Katritch V, Mangul S*. The evolution of computational research in a data-centric world. Cell. 2024 Aug 22;187(17):4449-4457. \
 [\[Abstract\]](https://pubmed.ncbi.nlm.nih.gov/39178828/)
 
 ## 2023
