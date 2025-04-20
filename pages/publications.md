@@ -1776,22 +1776,3 @@ Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/xiaole.liu.1/bibliography/publ
     related articles function within PubMed. Proc AMIA Symp 750-4.\
     [\[Abstract\]](http://www.ncbi.nlm.nih.gov/pubmed/9929319) [\[Full
     Paper\]](https://liulab-dfci.github.io/resources/publications/PNAS1998_750.pdf)
-:::
-:::
-
-::: {.container .beautiful-jekyll-footer}
-::: row
-::: {.col-lg-8 .col-lg-offset-2 .col-md-10 .col-md-offset-1}
--   [[ ]{.fa-stack .fa-lg aria-hidden="true"}
-    [RSS]{.sr-only}](https://liulab-dfci.github.io/feed.xml "RSS")
--   [[ ]{.fa-stack .fa-lg aria-hidden="true"}
-    [GitHub]{.sr-only}](https://github.com/liulab-dfci "GitHub")
--   [[ ]{.fa-stack .fa-lg aria-hidden="true"}
-    [Twitter]{.sr-only}](https://twitter.com/xshirleyliu "Twitter")
-
-Xiaole Shirley Liu Lab  •  2023
-
-Theme by [beautiful-jekyll](https://deanattali.com/beautiful-jekyll/)
-:::
-:::
-:::
