@@ -1,9 +1,9 @@
 ---
-title: "Publications"
-layout: default
-subtitle: Publications in Liu Lab
-permalink: /publication
----
+ layout: default
+ title: Publications
+ subtitle: Publications in Liu Lab
+ permalink: /publications
+ ---
 
 # Publications
 
