@@ -1,8 +1,8 @@
 ---
- layout: default
- title: Software
- subtitle: Softwares in Liu Lab
- permalink: /software/
+layout: default
+title: Software
+subtitle: Softwares in Liu Lab
+permalink: /software/
 ---
 
 # Software
@@ -82,7 +82,7 @@
   A sequence motif-finding algorithm.
 - [**Motif Regressor**](http://www.math.umass.edu/~conlon/mr.html)  
   A program for finding DNA sequence motifs.
-- [**MDscan**](http://robotics.stanford.edu/~xsliu/MDscan/)  
+- [**MDscan**](http://robotics.stanford.edu/~xsliu/MDscan/)
   A fast and accurate motif-finding algorithm with applications to chromatin immunoprecipitation microarray experiments.
 - [**BioProspector**](http://robotics.stanford.edu/~xsliu/BioProspector/)  
   Discovering conserved DNA motifs in upstream regulatory regions of co-expressed genes.
