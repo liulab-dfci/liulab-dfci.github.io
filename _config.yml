@@ -21,10 +21,10 @@ description: Xiaole Shirley Liu Lab at DFCI
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Software: "software"
+  Software: "Software"
   News & Events: "news"
-  People: "people"
-  Publications: "publication"
+  People: "People"
+  Publications: "Publications"
   Teaching: "teaching"
   Careers: "careers"
   Contact: "contact"
